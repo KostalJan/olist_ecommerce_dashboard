@@ -1,2 +1,2 @@
-# sales_dashboard
-Dashboard for sales data analysis using Pandas and NumPy
+# olist_ecommerce_dashboard
+Interactive analytics dashboard for Brazilian Olist e-commerce dataset.
